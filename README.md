@@ -1,37 +1,27 @@
 # RT-Thread智能互联创新大赛作品-AIOT智能语音管家
 
-#### 介绍
-RT-Thread智能互联创新大赛作品-AIOT智能语音管家
+## 介绍
+* RT-Thread智能互联创新大赛作品-AIOT智能语音管家
 
-#### 软件架构
-软件架构说明
+* 2020年省一等奖+国家二等奖作品
 
+* 下位机工程+开发板原理图
 
-#### 安装教程
+<iframe src="//player.bilibili.com/player.html?aid=460206168&bvid=BV1f5411c7sT&cid=328142140&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 硬件
 
-#### 使用说明
+树莓派语音百度SDK+小熊派（32版）RT-Thread物联网操作系统+柿饼派（柿饼UI）+ K210-DUCK
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+树莓派语音唤醒，识别、tts,K210人脸识别+口罩检测 
 
 
-#### 特技
+## 物联网平台
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+ThingsBoard
+
+
+## 开发环境
+
+RT-Thread Studio一站式开发IDE
+
